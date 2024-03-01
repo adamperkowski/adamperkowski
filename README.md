@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamperkowski&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamperkowski&show=prs_merged&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamperkowski&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
