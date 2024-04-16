@@ -15,4 +15,4 @@ I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML a
 Discord • @xx0a_q
 #### [Donate](https://adamperkowski.github.io/donate)
 
-###### If you like my work, please consider following me, starring and sharing with other fellow open source enthusiasts.
+###### If you like my work, please consider following me, ⭐-ring and sharing with other fellow open source enthusiasts.
