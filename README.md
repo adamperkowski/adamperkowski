@@ -1,6 +1,6 @@
 # Adam Perkowski
 ### hello world
-I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML and x86_64 Assembly.
+I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML, JavaScript and x86_64 Assembly.
 
 ## Stats
 <!-- [![Anurag's GitHub stats](https://readme-stats-ulgx.vercel.app/api?username=adamperkowski&show_icons=true&theme=transparent)](https://adamperkowski.github.io)
