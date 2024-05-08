@@ -13,6 +13,7 @@ I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML, 
 
 [Website](https://adamperkowski.github.io) • [Mastodon](https://mastodon.social/@xx0a_q) • [X](https://twitter.com/xx0a_q)<br>
 Discord • @xx0a_q
+#### [GPG RSA Public Key](pub_key)
 #### [Donate](https://adamperkowski.github.io/donate)
 
 ###### If you like my work, please consider following me, ⭐-ring and sharing with other fellow open source enthusiasts.
