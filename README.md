@@ -6,7 +6,7 @@ I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML, 
 <!-- [![Anurag's GitHub stats](https://readme-stats-ulgx.vercel.app/api?username=adamperkowski&show_icons=true&theme=transparent)](https://adamperkowski.github.io)
 [![Top Langs](https://readme-stats-ulgx.vercel.app/api/top-langs/?username=adamperkowski&hide=javascript&layout=donut&theme=transparent)](https://adamperkowski.github.io) -->
 
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski)
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,kali,debian,linux,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,neovim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 ## Links
 [🌫️ Para Wodna Sync project](https://github.com/PW-Sync)
