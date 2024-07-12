@@ -9,9 +9,9 @@ I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML, 
 [![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,kali,debian,linux,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,neovim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 ## Links
-[🌫️ Para Wodna Sync project](https://github.com/PW-Sync)
+[adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
-[🌐 Website](https://adamperkowski.github.io) • [Ⓜ️ Mastodon](https://mastodon.social/@xx0a_q) • [🇽](https://twitter.com/xx0a_q)<br>
+[🌐 Website](https://adamperkowski.github.io) • [Ⓜ️ Mastodon](https://mastodon.social/@xx0a_q) <br>
 Discord • @xx0a_q
 #### [🔑 ECC Public Key](ecc_pub_key)
 #### [🔒 RSA Public Key](pub_key) (not valid anymore!)
