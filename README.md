@@ -12,7 +12,7 @@ Looking to collaborate on any fun project. (i love Rust btw)
 ## Links
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
-[🌐 Website](https://adamperkowski.github.io) • [Ⓜ️ Mastodon](https://mastodon.social/@xx0a_q) <br>
+[🌐 Website](https://adamperkowski.github.io) • [Ⓜ️ Mastodon](https://floss.social/@xx0a_q) <br>
 Discord • @xx0a_q
 #### [🔑 ECC Public Key](ecc_pub_key)
 #### [🔒 RSA Public Key](pub_key) (not valid anymore!)
