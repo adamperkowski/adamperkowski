@@ -1,6 +1,6 @@
 # Adam Perkowski
 ### hello world
-I'm a programmer with 6 years of experience. I work in C++, Rust, Python, HTML, JavaScript and x86_64 Assembly.
+I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, HTML, JavaScript and x86_64 Assembly.
 Looking to collaborate on any fun project. (i love Rust btw)
 
 ## Stats
