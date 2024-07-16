@@ -18,4 +18,8 @@ Discord • @xx0a_q
 #### [🔒 RSA Public Key](pub_key) (not valid anymore!)
 #### [💵 Donate](https://adamperkowski.github.io/donate)
 
+## Now listening to
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j7fpw3stn5mo6almqx6m3cwjca&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=false&bar_color=f38ba8&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j7fpw3stn5mo6almqx6m3cwjca&redirect=true)
+
 ###### If you like my work, please consider following me, ⭐-ring and sharing with other fellow open source enthusiasts.
