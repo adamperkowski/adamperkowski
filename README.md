@@ -23,6 +23,6 @@ Discord • @xx0a_q
 
 ## Now listening to
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j7fpw3stn5mo6almqx6m3cwjca&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=true&bar_color=f38ba8&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j7fpw3stn5mo6almqx6m3cwjca&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=true&bar_color=f38ba8&bar_color_cover=true)](https://open.spotify.com/user/31j7fpw3stn5mo6almqx6m3cwjca)
 
 ###### If you like my work, please consider following me, ⭐-ring and sharing with other fellow open source enthusiasts.
