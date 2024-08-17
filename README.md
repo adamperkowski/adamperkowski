@@ -16,7 +16,7 @@ Looking to collaborate on any fun project. (i love Rust btw)
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
 [🌐 Website](https://adamperkowski.dev) • [Ⓜ️ Mastodon](https://floss.social/@xx0a_q) • [📡 Signal](https://signal.me/#eu/soGztmBh8pJ75fu3ZRkOUc-Zp4bH0BLEaHy_lxWc7Ijs_TBtUitOKbDwMxRJp-Be)<br>
-Discord • @xx0a_q
+Discord • [@xx0a_q](https://discord.com/users/1101820235566305290)
 #### [🔑 ECC Public Key](ecc_pub_key)<br>`00F6 1623 FB56 BC5B B709  4E63 4CE6 C117 2DF6 BE79`
 #### [🔒 RSA Public Key](rsa_pub_key) (git; sign-only)<br>`5A53 0832 DA91 20B0 CA57  DDB6 7CBD B58E CF1D 3478`
 #### [💵 Donate](https://adamperkowski.github.io/donate)
