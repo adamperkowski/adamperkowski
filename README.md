@@ -11,7 +11,7 @@ Looking to collaborate on any fun project. (i love Rust btw)
 [![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,kali,debian,linux,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,neovim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 ## Links
-[🌄 HighlightOS](https://os.adamperkowski.dev) • [🖥️ KDash](https://kdash.adamperkowski.dev)
+[🌄 HighlightOS](https://os.adamperkowski.dev) • [🖥️ RLDash](https://rldash.adamperkowski.dev)
 
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
