@@ -1,4 +1,4 @@
-<h1 align="center">Adam Perkowski</h1>
+<h1 align="right">Adam Perkowski</h1>
 
 ### hello world
 I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, HTML, JavaScript and x86_64 Assembly.
