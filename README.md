@@ -1,14 +1,12 @@
 <h1 align="right">Adam Perkowski</h1>
 
 ### hello world
-I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, HTML, JavaScript and x86_64 Assembly.
+I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go, JavaScript and C#.
 Looking to collaborate on any fun project. (i love Rust btw)
 
 ## Stats
-<!-- [![Anurag's GitHub stats](https://readme-stats-ulgx.vercel.app/api?username=adamperkowski&show_icons=true&theme=transparent)](https://adamperkowski.github.io)
-[![Top Langs](https://readme-stats-ulgx.vercel.app/api/top-langs/?username=adamperkowski&hide=javascript&layout=donut&theme=transparent)](https://adamperkowski.github.io) -->
 
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,neovim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,bsd,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 ## Links
 [🌄 HighlightOS](https://os.adamperkowski.dev)
