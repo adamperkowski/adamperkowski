@@ -1,12 +1,15 @@
 <h1 align="right">Adam Perkowski</h1>
 
 ### hello world
+
+<div align="center">
+
 I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go, JavaScript and C#.
 Looking to collaborate on any fun project. (i love Rust btw)
 
 ## Stats
 
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,bsd,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=35)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,bsd,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 ## Links
 [🌄 HighlightOS](https://os.adamperkowski.dev)
@@ -22,5 +25,7 @@ Discord • [@xx0a_q](https://discord.com/users/1101820235566305290)
 ## Now listening to
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j7fpw3stn5mo6almqx6m3cwjca&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=true&bar_color=f38ba8&bar_color_cover=true)](https://open.spotify.com/user/31j7fpw3stn5mo6almqx6m3cwjca)
+
+</div>
 
 ###### If you like my work, please consider following me, ⭐-ring and sharing with other fellow open source enthusiasts.
