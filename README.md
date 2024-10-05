@@ -12,7 +12,7 @@ I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go,
 
 <div align="center">
 
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=35)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,bsd,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=36)](https://wakatime.com/@adamperkowski) ![](https://skillicons.dev/icons?i=arch,nix,regex,debian,linux,bsd,windows,rust,bash,python,c,cpp,arduino,md,html,js,nodejs,raspberrypi,discordjs,godot,unity,bevy,blender,vim,vscode,github,bots,ps,wordpress,docker&theme=dark&perline=3)
 
 </div>
 
