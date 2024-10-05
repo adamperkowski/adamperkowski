@@ -4,8 +4,7 @@
 
 <div align="center">
 
-I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go, JavaScript and C#.
-Looking to collaborate on any fun project. (i love Rust btw)
+I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go, JavaScript and C#.</br>Looking to collaborate on any fun project. (i love Rust btw)
 
 </div>
 
