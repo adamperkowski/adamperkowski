@@ -28,7 +28,7 @@ I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go,
 Discord • [@xx0a_q](https://discord.com/users/1101820235566305290)
 #### [🔑 ECC Public Key](ecc_pub_key)<br>`00F6 1623 FB56 BC5B B709  4E63 4CE6 C117 2DF6 BE79`
 #### [🔒 RSA Public Key](rsa_pub_key) (git; sign-only)<br>`5A53 0832 DA91 20B0 CA57  DDB6 7CBD B58E CF1D 3478`
-#### [💵 Donate](https://adamperkowski.github.io/donate)
+#### [💵 Donate](https://adamperkowski.dev/donate)
 
 </div>
 
