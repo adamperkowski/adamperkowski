@@ -20,7 +20,7 @@ I'm a programmer with 6 years of experience. I work in Rust, C, C++, Python, Go,
 
 <div align="center">
 
-[🌄 HighlightOS](https://os.adamperkowski.dev)
+<a href='https://hyprutils.github.io'><img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png' width='14' height='14'> HyprUtils</a> • <a href='https://os.adamperkowski.dev'>🌄 HighlightOS</a>
 
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
