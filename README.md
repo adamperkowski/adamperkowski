@@ -16,7 +16,7 @@
 
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
-[🌐 Website](https://adamperkowski.dev) • [📽️ Twitch](https://twitch.tv/adamperkowski) • [🦋 Bluesky](https://bsky.app/profile/adamperkowski.dev)
+[🌐 Website](https://adamperkowski.dev) • [▶️ YouTube](https://youtube.com/channel/UC6dT__PRcG08t284qp6jRiQ) • [📽️ Twitch](https://twitch.tv/adamperkowski) • [🦋 Bluesky](https://bsky.app/profile/adamperkowski.dev)
 
 <b>
 
