@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href='https://hyprutils.github.io'><img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png' width='14' height='14'> HyprUtils</a> • <a href='https://os.adamperkowski.dev'>🌄 HighlightOS</a>
+<a href='https://github.com/adamperkowski/nvrs'>🚦 nvrs</a> • <a href='https://os.adamperkowski.dev'>🌄 HighlightOS</a> • <a href='https://hyprutils.github.io'><img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png' width='14' height='14'> HyprUtils</a>
 
 [adas1per@protonmail.com](mailto:adas1per@protonmail.com)
 
