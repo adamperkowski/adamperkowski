@@ -39,7 +39,7 @@ hey. my name is adam perkowski. aka xx0a_q, xeqo. i do computer stuff.
 
 <div align="center">
 
-[adas1per@protonmail.com](mailto:adas1per@protonmail.com)
+<adas1per@protonmail.com>
 
 Discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
 Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
