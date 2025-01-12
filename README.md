@@ -27,6 +27,8 @@ hey. my name is adam perkowski. aka xx0a_q, xeqo. i do computer stuff.
 <details>
 <summary><b>stats</b></summary>
 
+<br>
+
 <div align="center">
 
 [![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@adamperkowski)
@@ -36,6 +38,8 @@ hey. my name is adam perkowski. aka xx0a_q, xeqo. i do computer stuff.
 
 <details>
 <summary><b>contact</b></summary>
+
+<br>
 
 <div align="center">
 
