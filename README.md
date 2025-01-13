@@ -75,7 +75,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 | 🌄    | [HighlightOS] | x86_64 OS (kernel) made from scratch                | Rust, ASM   |
 | 🗳️    | [snapbox]     | HTTP Client Library for [Jule]                      | [Jule], C++ |
 | >_    | [CLIQ]        | CLI library for [Jule]                              | [Jule]      |
-| ⬆️    | [jpu]         | fast and lightweight ProtonUp alternative           | [Jule], C++ |
+| ⬆️    | [jpu]         | fast and lightweight ProtonUp alternative           | [Jule],     |
 | 🐧    | [linutil]     | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell |
 |       | [jule.nvim]   | official [Jule] plugin for Neovim                   | Lua, Vim    |
 | 📦    | [PKGBUILDs]   | sources of AUR packages i maintain                  | Shell       |
