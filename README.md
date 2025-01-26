@@ -84,7 +84,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 |       | [jule.nvim]   | official [Jule] plugin for Neovim                   | Lua, Vim    |
 | 📦    | [PKGBUILDs]   | sources of AUR packages i maintain                  | Shell       |
 | 🪟    | [dwm]         | my build of dwm + some dotfiles                     | C, Shell    |
-| 🌐    | [my website]  | source of [adamperkowski.dev][my website]           | HTML, CSS   |
+| 🌐    | [website]     | source of [adamperkowski.dev][my website]           | HTML, CSS   |
 
 </div>
 </details>
@@ -99,5 +99,6 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 [PKGBUILDs]: https://github.com/adamperkowski/PKGBUILDs
 [dwm]: https://github.com/adamperkowski/dwm
 [my website]: https://adamperkowski.dev
+[website]: https://github.com/adamperkowski/website
 
 [Jule]: https://jule.dev
