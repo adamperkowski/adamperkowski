@@ -20,7 +20,11 @@ rsa_pub_key
 
 <div align="center">
 
-hey. my name is adam perkowski. aka xx0a_q, xeqo. i do computer stuff.
+hey. my name is adam. aka xx0a_q, xeqo. i do computer stuff.
+
+i maintain some stuff including [Jule], [linutil], a couple of [personal projects](#projects) & [PKGBUILDs] for arch linux (btw)
+
+---
 
 </div>
 
@@ -67,7 +71,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 
 <br>
 
-<div align="center">
+<div align="center" id="projects">
 
 | emoji | name          | description                                         | language    |
 |-------|---------------|-----------------------------------------------------|-------------|
