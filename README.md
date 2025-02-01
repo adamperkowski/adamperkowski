@@ -83,7 +83,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 | 🐧    | [linutil]     | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
 |       | [jule.nvim]   | official [Jule] plugin for Neovim                   | Lua, Vim               |
 | 📦    | [PKGBUILDs]   | sources of AUR packages i maintain                  | Shell                  |
-| 🪟    | [dwm]         | my build of dwm + some dotfiles                     | C, Shell               |
+| 🪟    | [dwm]         | my build of dwm + st + some dotfiles                | C, Shell               |
 | 🌐    | [website]     | source of [adamperkowski.dev][my website]           | Rust, HTML, SCSS, JS   |
 
 </div>
