@@ -73,18 +73,19 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 
 <div align="center" id="projects">
 
-| emoji | name          | description                                         | language               |
-|-------|---------------|-----------------------------------------------------|------------------------|
-| 🚦    | [nvrs]        | fast new version checker for software releases      | Rust                   |
-| 🌄    | [HighlightOS] | x86_64 OS (kernel) made from scratch                | Rust, ASM              |
-| 🗳️    | [snapbox]     | HTTP Client Library for [Jule]                      | [Jule], C++            |
-| >_    | [CLIQ]        | CLI library for [Jule]                              | [Jule]                 |
-| ⬆️    | [jpu]         | fast and lightweight ProtonUp alternative           | [Jule], C              |
-| 🐧    | [linutil]     | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
-|       | [jule.nvim]   | official [Jule] plugin for Neovim                   | Lua, Vim               |
-| 📦    | [PKGBUILDs]   | sources of AUR packages i maintain                  | Shell                  |
-| 🪟    | [dwm]         | my build of dwm + st + some dotfiles                | C, Shell               |
-| 🌐    | [website]     | source of [adamperkowski.dev][my website]           | Rust, HTML, SCSS, JS   |
+| emoji | name           | description                                         | language               |
+|-------|----------------|-----------------------------------------------------|------------------------|
+| 🚦    | [nvrs]         | fast new version checker for software releases      | Rust                   |
+| 🌄    | [HighlightOS]  | x86_64 OS (kernel) made from scratch                | Rust, ASM              |
+| 🗳️    | [snapbox]      | HTTP Client Library for [Jule]                      | [Jule], C++            |
+| >_    | [CLIQ]         | CLI library for [Jule]                              | [Jule]                 |
+| ⬆️    | [jpu]         |  fast and lightweight ProtonUp alternative           | [Jule], C              |
+| 🐧    | [linutil]      | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
+|       | [jule.nvim]    | official [Jule] plugin for Neovim                   | Lua, Vim               |
+|       | [jule-mode.el] | official [Jule] major mode for Emacs                | Elisp, Jule            |
+| 📦    | [PKGBUILDs]    | sources of AUR packages i maintain                  | Shell                  |
+| 🪟    | [dwm]          | my build of dwm + st + some dotfiles                | C, Shell               |
+| 🌐    | [website]      | source of [adamperkowski.dev][my website]           | Rust, HTML, SCSS, JS   |
 
 </div>
 </details>
@@ -96,6 +97,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 [jpu]: https://github.com/adamperkowski/jpu
 [linutil]: https://github.com/christitustech/linutil
 [jule.nvim]: https://github.com/julelang/jule.nvim
+[jule-mode.el]: https://github.com/julelang/jule-mode.el
 [PKGBUILDs]: https://github.com/adamperkowski/PKGBUILDs
 [dwm]: https://github.com/adamperkowski/dwm
 [my website]: https://adamperkowski.dev
