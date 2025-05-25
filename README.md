@@ -14,8 +14,6 @@ rsa_pub_key
 
 <b>adam perkowski</b>
 
-[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
-
 </div>
 
 <div align="center">
@@ -78,7 +76,6 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 | 🚦    | [nvrs]         | fast new version checker for software releases      | Rust                   |
 | 🌄    | [HighlightOS]  | x86_64 OS (kernel) made from scratch                | Rust, ASM              |
 | 🗳️    | [snapbox]      | HTTP Client Library for [Jule]                      | [Jule], C++            |
-| >_    | [CLIQ]         | CLI library for [Jule]                              | [Jule]                 |
 | ⬆️    | [jpu]         |  fast and lightweight ProtonUp alternative           | [Jule], C              |
 | 🐧    | [linutil]      | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
 |       | [jule.nvim]    | official [Jule] plugin for Neovim                   | Lua, Vim               |
@@ -93,7 +90,6 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 [nvrs]: https://github.com/adamperkowski/nvrs
 [HighlightOS]: https://github.com/adamperkowski/highlightos
 [snapbox]: https://github.com/adamperkowski/snapbox
-[CLIQ]: https://github.com/adamperkowski/cliq
 [jpu]: https://github.com/adamperkowski/jpu
 [linutil]: https://github.com/christitustech/linutil
 [jule.nvim]: https://github.com/julelang/jule.nvim
