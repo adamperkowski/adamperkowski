@@ -75,6 +75,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 |-------|----------------|-----------------------------------------------------|------------------------|
 | 🚦    | [nvrs]         | fast new version checker for software releases      | Rust                   |
 | 🌄    | [HighlightOS]  | x86_64 OS (kernel) made from scratch                | Rust, ASM              |
+| 😼    | [kitget]       | CLI tool for displaying and customizing cat images  | Rust                   |
 | 🗳️    | [snapbox]      | HTTP Client Library for [Jule]                      | [Jule], C++            |
 | ⬆️    | [jpu]         |  fast and lightweight ProtonUp alternative           | [Jule], C              |
 | 🐧    | [linutil]      | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
@@ -89,6 +90,7 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 
 [nvrs]: https://github.com/adamperkowski/nvrs
 [HighlightOS]: https://github.com/adamperkowski/highlightos
+[kitget]: https://github.com/adamperkowski/kitget
 [snapbox]: https://github.com/adamperkowski/snapbox
 [jpu]: https://github.com/adamperkowski/jpu
 [linutil]: https://github.com/christitustech/linutil
