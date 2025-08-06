@@ -33,7 +33,8 @@ i maintain some stuff including [Jule], [linutil], a couple of [personal project
 
 <div align="center">
 
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@adamperkowski)
+[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@adamperkowski)<br>
+[![committers.top badge](https://user-badge.committers.top/poland/adamperkowski.svg)](https://user-badge.committers.top/poland/adamperkowski)
 
 </div>
 </details>
