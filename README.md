@@ -51,7 +51,7 @@ i maintain some stuff including [Jule], [linutil], a couple of [personal project
 Discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
 Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
 
-[🌐 Website][my website] • [▶️ YouTube](https://youtube.com/channel/UC6dT__PRcG08t284qp6jRiQ) • [📽️ Twitch](https://twitch.tv/adamperkowski) • [🦋 Bluesky](https://bsky.app/profile/adamperkowski.dev)
+[🌐 Website][my website] • [▶️ YouTube](https://youtube.com/@adam.perkowski) • [📽️ Twitch](https://twitch.tv/adamperkowski) • [🦋 Bluesky](https://bsky.app/profile/adamperkowski.dev)
 
 <b>
 
