@@ -20,9 +20,9 @@ rsa_pub_key
 
 <div align="center">
 
-hey. my name is adam. aka xx0a_q, xeqo. i do computer stuff.
+omg hi im adam
 
-i maintain some stuff including [Jule], [linutil], a couple of [personal projects](#projects) & [PKGBUILDs] for arch linux (btw)
+i maintain some stuffs like [Jule], [linutil], a couple of [personal projects](#projects) & [PKGBUILDs] for arch linux (btw)
 
 ---
 
