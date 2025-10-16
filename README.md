@@ -12,7 +12,14 @@ rsa_pub_key
 
 <div>
 
-<img src='https://media.tenor.com/iVVi-enilPAAAAAM/sound-the-car-alarm-cat.gif' height='24rem' align='right'>
+<a href="https://adamperkowski.dev" target="_blank">
+  <img
+    width="88"
+    height="31"
+    src="https://adamperkowski.dev/img/badges/mimi-the-car.gif"
+    alt="mimi the car (my website)"
+    align="right">
+</a>
 
 <b>adam perkowski</b>
 
