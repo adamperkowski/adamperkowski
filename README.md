@@ -27,11 +27,15 @@ rsa_pub_key
 
 <div align="center">
 
-omg hi im adam
-
+omg hi im adam<br>
 i maintain some stuffs like [Jule], [linutil], a couple of [personal projects](#projects) & [PKGBUILDs] for arch linux (btw)
 
----
+<img
+  width="496"
+  height="32"
+  src="https://adamperkowski.dev/img/mimi-banner.gif"
+  alt="mimi banner"
+  align="center">
 
 </div>
 
