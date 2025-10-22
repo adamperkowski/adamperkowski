@@ -59,7 +59,7 @@ i maintain some stuffs like [Jule], [linutil], a couple of [personal projects](#
 
 <div align="center">
 
-<adas1per@protonmail.com>
+<me@adamperkowski.dev>
 
 Discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
 Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
