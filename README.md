@@ -28,7 +28,7 @@ rsa_pub_key
 <div align="center">
 
 omg hi im adam<br>
-i maintain some stuffs like [Jule], [linutil], a couple of [personal projects](#projects) & [PKGBUILDs] for arch linux (btw)
+i maintain some stuffs like [jule], [linutil], a couple of [personal projects](#projects), nix & arch (btw) packages
 
 <img
   width="496"
@@ -61,10 +61,10 @@ i maintain some stuffs like [Jule], [linutil], a couple of [personal projects](#
 
 <me@adamperkowski.dev>
 
-Discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
-Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
+discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
+matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
 
-[🌐 Website][my website] • [▶️ YouTube](https://youtube.com/@adam.perkowski) • [📽️ Twitch](https://twitch.tv/adamperkowski) • [🦋 Bluesky](https://bsky.app/profile/adamperkowski.dev)
+[website][my website]
 
 <b>
 
@@ -79,40 +79,38 @@ Matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0
 </details>
 
 <details>
-<summary><b>projects & repositories</b></summary>
+<summary><b>projects</b></summary>
 
 <br>
 
 <div align="center" id="projects">
 
-| emoji | name           | description                                         | language               |
-|-------|----------------|-----------------------------------------------------|------------------------|
-| 🚦    | [nvrs]         | fast new version checker for software releases      | Rust                   |
-| 🌄    | [HighlightOS]  | x86_64 OS (kernel) made from scratch                | Rust, ASM              |
-| 😼    | [kitget]       | CLI tool for displaying and customizing cat images  | Rust                   |
-| 🗳️    | [snapbox]      | HTTP Client Library for [Jule]                      | [Jule], C++            |
-| ⬆️    | [jpu]         |  fast and lightweight ProtonUp alternative           | [Jule], C              |
-| 🐧    | [linutil]      | distro-agnostic toolbox for simplifying Linux tasks | Rust, Shell            |
-|       | [jule.nvim]    | official [Jule] plugin for Neovim                   | Lua, Vim               |
-|       | [jule-mode.el] | official [Jule] major mode for Emacs                | Elisp, Jule            |
-| 📦    | [PKGBUILDs]    | sources of AUR packages i maintain                  | Shell                  |
-| 🪟    | [dwm]          | my build of dwm + st + some dotfiles                | C, Shell               |
-| 🌐    | [website]      | source of [adamperkowski.dev][my website]           | Rust, HTML, SCSS, JS   |
+| name           | description                                         | language               |
+|----------------|-----------------------------------------------------|------------------------|
+| [kitget]       | cli tool for displaying and customizing cat images  | rust                   |
+| [nvrs]         | fast new version checker for software releases      | rust                   |
+| [highlightos]  | x86_64 os (kernel) made from scratch                | rust, asm              |
+| [linutil]      | distro-agnostic toolbox for simplifying linux tasks | rust, shell            |
+| [snapbox]      | http client library for [jule]                      | [jule], c++            |
+| [jpu]          | fast and lightweight protonup alternative           | [jule], c              |
+| [jule.nvim]    | official [jule] plugin for neovim                   | lua, vim               |
+| [anvim]        | my neovim configuration                             | lua, nix               |
+| [dotfiles]     | my nixos configuration & dotfiles                   | nix                    |
+| [website]      | source of [adamperkowski.dev][my website]           | rust, html, scss, js   |
 
 </div>
 </details>
 
-[nvrs]: https://github.com/adamperkowski/nvrs
-[HighlightOS]: https://github.com/adamperkowski/highlightos
 [kitget]: https://github.com/adamperkowski/kitget
+[nvrs]: https://github.com/adamperkowski/nvrs
+[highlightos]: https://github.com/adamperkowski/highlightos
+[linutil]: https://github.com/christitustech/linutil
 [snapbox]: https://github.com/adamperkowski/snapbox
 [jpu]: https://github.com/adamperkowski/jpu
-[linutil]: https://github.com/christitustech/linutil
 [jule.nvim]: https://github.com/julelang/jule.nvim
-[jule-mode.el]: https://github.com/julelang/jule-mode.el
-[PKGBUILDs]: https://github.com/adamperkowski/PKGBUILDs
-[dwm]: https://github.com/adamperkowski/dwm
-[my website]: https://adamperkowski.dev
+[anvim]: https://github.com/adamperkowski/anvim
+[dotfiles]: https://github.com/adamperkowski/dotfiles
 [website]: https://github.com/adamperkowski/website
 
-[Jule]: https://jule.dev
+[jule]: https://jule.dev
+[my website]: https://adamperkowski.dev
