@@ -61,8 +61,8 @@ i maintain some stuffs like [jule], [linutil], a couple of [personal projects](#
 
 <me@adamperkowski.dev>
 
-discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@x.eqo</a><br>
-matrix • <a href="https://matrix.to/#/@xx0a_q:matrix.org" target="_blank">@xx0a_q:matrix.org</a>
+discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
+matrix • <a href="https://matrix.to/#/@adam:matrix.system72.dev" target="_blank">@adam:matrix.system72.dev</a>
 
 [website][my website]
 
