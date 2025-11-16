@@ -59,11 +59,11 @@ i maintain some stuffs like [jule], [linutil], a couple of [personal projects](#
 
 <me@adamperkowski.dev>
 
-github&nbsp;&nbsp;• <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
-matrix&nbsp;&nbsp;• <a href="https://matrix.to/#/@adam:matrix.system72.dev" target="_blank">@adam:matrix.system72.dev</a><br>
-discord&nbsp;• <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
-bluesky&nbsp;• <a href="https://bsky.app/profile/adamperkowski.dev" target="_blank">@adamperkowski.dev</a><br>
-last.fm&nbsp;• <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
+github • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
+matrix • <a href="https://matrix.to/#/@adam:matrix.system72.dev" target="_blank">@adam:matrix.system72.dev</a><br>
+discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
+bluesky • <a href="https://bsky.app/profile/adamperkowski.dev" target="_blank">@adamperkowski.dev</a><br>
+last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
 
 [website][my website]
 
