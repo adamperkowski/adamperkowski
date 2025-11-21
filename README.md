@@ -89,6 +89,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 | name           | description                                         | language               |
 |----------------|-----------------------------------------------------|------------------------|
 | [kitget]       | cli tool for displaying and customizing cat images  | rust                   |
+| [nixdle]       | wordle but it's nix functions                       | rust, nix              |
 | [nvrs]         | fast new version checker for software releases      | rust                   |
 | [highlightos]  | x86_64 os (kernel) made from scratch                | rust, asm              |
 | [linutil]      | distro-agnostic toolbox for simplifying linux tasks | rust, shell            |
@@ -103,6 +104,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 </details>
 
 [kitget]: https://github.com/adamperkowski/kitget
+[nixdle]: https://github.com/nixdle/nixdle
 [nvrs]: https://github.com/adamperkowski/nvrs
 [highlightos]: https://github.com/adamperkowski/highlightos
 [linutil]: https://github.com/christitustech/linutil
