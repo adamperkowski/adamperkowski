@@ -60,6 +60,7 @@ i maintain some stuffs like [jule], [linutil], a couple of [personal projects](#
 <me@adamperkowski.dev>
 
 github • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
+codeberg • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
 matrix • <a href="https://matrix.to/#/@adam:matrix.system72.dev" target="_blank">@adam:matrix.system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
 bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@adamperkowski.dev</a><br>
@@ -103,7 +104,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 </div>
 </details>
 
-[kitget]: https://github.com/adamperkowski/kitget
+[kitget]: https://codeberg.org/adamperkowski/kitget
 [nixdle]: https://github.com/nixdle/nixdle
 [nvrs]: https://github.com/adamperkowski/nvrs
 [highlightos]: https://github.com/adamperkowski/highlightos
@@ -111,9 +112,9 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 [snapbox]: https://github.com/adamperkowski/snapbox
 [jpu]: https://github.com/adamperkowski/jpu
 [jule.nvim]: https://github.com/julelang/jule.nvim
-[anvim]: https://github.com/adamperkowski/anvim
-[dotfiles]: https://github.com/adamperkowski/dotfiles
-[website]: https://github.com/adamperkowski/website
+[anvim]: https://codeberg.org/adamperkowski/anvim
+[dotfiles]: https://codeberg.org/adamperkowski/dotfiles
+[website]: https://codeberg.org/adamperkowski/website
 
 [jule]: https://jule.dev
 [my website]: https://adamperkowski.dev
