@@ -93,6 +93,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 | [nixdle]       | wordle but it's nix functions                       | rust, nix              |
 | [nvrs]         | fast new version checker for software releases      | rust                   |
 | [highlightos]  | x86_64 os (kernel) made from scratch                | rust, asm              |
+| [cuteff]       | a cute system info fetch thingy                     | go                     |
 | [linutil]      | distro-agnostic toolbox for simplifying linux tasks | rust, shell            |
 | [snapbox]      | http client library for [jule]                      | [jule], c++            |
 | [jpu]          | fast and lightweight protonup alternative           | [jule], c              |
@@ -108,6 +109,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 [nixdle]: https://github.com/nixdle/nixdle
 [nvrs]: https://github.com/adamperkowski/nvrs
 [highlightos]: https://github.com/adamperkowski/highlightos
+[cuteff]: https://codeberg.org/adamperkowski/cuteff
 [linutil]: https://github.com/christitustech/linutil
 [snapbox]: https://github.com/adamperkowski/snapbox
 [jpu]: https://github.com/adamperkowski/jpu
