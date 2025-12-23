@@ -89,6 +89,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 
 | name           | description                                         | language               |
 |----------------|-----------------------------------------------------|------------------------|
+| [ebil.club]    | static site hosting, bluesky handles, and more!!    | nix, astro, ...        |
 | [kitget]       | cli tool for displaying and customizing cat images  | rust                   |
 | [nixdle]       | wordle but it's nix functions                       | rust, nix              |
 | [nvrs]         | fast new version checker for software releases      | rust                   |
@@ -105,6 +106,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 </div>
 </details>
 
+[ebil.club]: https://ebil.club
 [kitget]: https://codeberg.org/adamperkowski/kitget
 [nixdle]: https://github.com/nixdle/nixdle
 [nvrs]: https://github.com/adamperkowski/nvrs
