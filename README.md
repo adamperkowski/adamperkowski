@@ -28,7 +28,7 @@ rsa_pub_key
 <div align="center">
 
 omg hi im adam<br>
-i maintain some stuffs like [jule], [linutil], a couple of [personal projects](#projects), nix & arch (btw) packages
+i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#projects), etc. go check out my site!!
 
 <img
   width="496"
