@@ -61,7 +61,7 @@ i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#pr
 
 github • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
 codeberg • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
-matrix • <a href="https://matrix.to/#/@adam:matrix.system72.dev" target="_blank">@adam:matrix.system72.dev</a><br>
+matrix • <a href="https://matrix.to/#/@adam:system72.dev" target="_blank">@adam:system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
 bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@adamperkowski.dev</a><br>
 last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
