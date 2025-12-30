@@ -80,12 +80,10 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 </div>
 </details>
 
-<details>
+<details id="projects">
 <summary><b>projects</b></summary>
-
 <br>
-
-<div align="center" id="projects">
+<div align="center">
 
 | name           | description                                         | language               |
 |----------------|-----------------------------------------------------|------------------------|
