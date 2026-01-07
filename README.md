@@ -40,30 +40,17 @@ i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#pr
 </div>
 
 <details>
-<summary><b>stats</b></summary>
-
-<br>
-
-<div align="center">
-
-[![📊 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamperkowski&layout=compact&theme=transparent&langs_count=12)](https://wakatime.com/@adamperkowski)<br>
-[![committers.top badge](https://user-badge.committers.top/poland/adamperkowski.svg)](https://user-badge.committers.top/poland/adamperkowski)
-
-</div>
-</details>
-
-<details>
 <summary><b>contact</b></summary>
 <br>
 <div align="center">
 
 <me@koi.rip>
 
-github • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
+github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
 codeberg • <a href="https://codeberg.org/adamperkowski" target="_blank">@adamperkowski</a><br>
-matrix • <a href="https://matrix.to/#/@adam:system72.dev" target="_blank">@adam:system72.dev</a><br>
+matrix • <a href="https://matrix.to/#/@koi:system72.dev" target="_blank">@koi:system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
-bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@adamperkowski.dev</a><br>
+bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
 last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
 
 [website][my website]
@@ -107,12 +94,12 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 [ebil.club]: https://ebil.club
 [kitget]: https://codeberg.org/adamperkowski/kitget
 [nixdle]: https://github.com/nixdle/nixdle
-[nvrs]: https://github.com/adamperkowski/nvrs
-[highlightos]: https://github.com/adamperkowski/highlightos
+[nvrs]: https://github.com/koibtw/nvrs
+[highlightos]: https://github.com/koibtw/highlightos
 [cuteff]: https://codeberg.org/adamperkowski/cuteff
 [linutil]: https://github.com/christitustech/linutil
-[snapbox]: https://github.com/adamperkowski/snapbox
-[jpu]: https://github.com/adamperkowski/jpu
+[snapbox]: https://github.com/koibtw/snapbox
+[jpu]: https://github.com/koibtw/jpu
 [jule.nvim]: https://github.com/julelang/jule.nvim
 [anvim]: https://codeberg.org/adamperkowski/anvim
 [dotfiles]: https://codeberg.org/adamperkowski/dotfiles
