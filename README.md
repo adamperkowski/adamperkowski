@@ -12,28 +12,28 @@ rsa_pub_key
 
 <div>
 
-<a href="https://adamperkowski.dev" target="_blank">
+<a href="https://koi.rip" target="_blank">
   <img
     width="88"
     height="31"
-    src="https://adamperkowski.dev/img/badges/mimi-the-car.gif"
+    src="https://koi.rip/img/badges/mimi-the-car.gif"
     alt="mimi the car (my website)"
     align="right">
 </a>
 
-<b>adam perkowski</b>
+<b>koi</b>
 
 </div>
 
 <div align="center">
 
-omg hi im adam<br>
+omg hi im koi<br>
 i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#projects), etc. go check out my site!!
 
 <img
   width="496"
   height="32"
-  src="https://adamperkowski.dev/img/mimi-banner.gif"
+  src="https://koi.rip/img/mimi-banner.gif"
   alt="mimi banner"
   align="center">
 
@@ -57,7 +57,7 @@ i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#pr
 <br>
 <div align="center">
 
-<me@adamperkowski.dev>
+<me@koi.rip>
 
 github • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
 codeberg • <a href="https://github.com/adamperkowski" target="_blank">@adamperkowski</a><br>
@@ -75,7 +75,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 
 </b>
 
-[donate](https://adamperkowski.dev/donate)
+[donate](https://koi.rip/donate)
 
 </div>
 </details>
@@ -99,7 +99,7 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 | [jule.nvim]    | official [jule] plugin for neovim                   | lua, vim               |
 | [anvim]        | my neovim configuration                             | lua, nix               |
 | [dotfiles]     | my nixos configuration & dotfiles                   | nix                    |
-| [website]      | source of [adamperkowski.dev][my website]           | rust, html, scss, js   |
+| [website]      | source of [koi.rip][my website]           | rust, html, scss, js   |
 
 </div>
 </details>
@@ -119,4 +119,4 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 [website]: https://codeberg.org/adamperkowski/website
 
 [jule]: https://jule.dev
-[my website]: https://adamperkowski.dev
+[my website]: https://koi.rip
