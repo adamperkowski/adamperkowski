@@ -47,7 +47,7 @@ i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#pr
 <me@koi.rip>
 
 github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
-codeberg • <a href="https://codeberg.org/adamperkowski" target="_blank">@adamperkowski</a><br>
+codeberg • <a href="https://codeberg.org/koibtw" target="_blank">@koibtw</a><br>
 matrix • <a href="https://matrix.to/#/@koi:system72.dev" target="_blank">@koi:system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
 bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
@@ -92,18 +92,18 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 </details>
 
 [ebil.club]: https://ebil.club
-[kitget]: https://codeberg.org/adamperkowski/kitget
+[kitget]: https://codeberg.org/koibtw/kitget
 [nixdle]: https://github.com/nixdle/nixdle
 [nvrs]: https://github.com/koibtw/nvrs
 [highlightos]: https://github.com/koibtw/highlightos
-[cuteff]: https://codeberg.org/adamperkowski/cuteff
+[cuteff]: https://codeberg.org/koibtw/cuteff
 [linutil]: https://github.com/christitustech/linutil
 [snapbox]: https://github.com/koibtw/snapbox
 [jpu]: https://github.com/koibtw/jpu
 [jule.nvim]: https://github.com/julelang/jule.nvim
-[anvim]: https://codeberg.org/adamperkowski/anvim
-[dotfiles]: https://codeberg.org/adamperkowski/dotfiles
-[website]: https://codeberg.org/adamperkowski/website
+[anvim]: https://codeberg.org/koibtw/anvim
+[dotfiles]: https://codeberg.org/koibtw/dotfiles
+[website]: https://codeberg.org/koibtw/website
 
 [jule]: https://jule.dev
 [my website]: https://koi.rip
