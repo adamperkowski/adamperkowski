@@ -46,11 +46,11 @@ i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#pr
 
 <me@koi.rip>
 
+bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
 github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
 codeberg • <a href="https://codeberg.org/koibtw" target="_blank">@koibtw</a><br>
 matrix • <a href="https://matrix.to/#/@koi:system72.dev" target="_blank">@koi:system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
-bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
 last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
 
 [website][my website]
@@ -76,31 +76,33 @@ last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamper
 |----------------|-----------------------------------------------------|------------------------|
 | [ebil.club]    | static site hosting, bluesky handles, and more!!    | nix, astro, ...        |
 | [kitget]       | cli tool for displaying and customizing cat images  | rust                   |
-| [nixdle]       | wordle but it's nix functions                       | rust, nix              |
-| [nvrs]         | fast new version checker for software releases      | rust                   |
 | [highlightos]  | x86_64 os (kernel) made from scratch                | rust, asm              |
 | [cuteff]       | a cute system info fetch thingy                     | go                     |
+| [nixdle]       | wordle but it's nix functions                       | rust, nix              |
+| [nvrs]         | fast new version checker for software releases      | rust                   |
+| [nidhogg.nvim] | DMC ranks for Neovim                                | lua, nix               |
+| [jule.nvim]    | official [jule] plugin for neovim                   | lua, vim               |
 | [linutil]      | distro-agnostic toolbox for simplifying linux tasks | rust, shell            |
 | [snapbox]      | http client library for [jule]                      | [jule], c++            |
 | [jpu]          | fast and lightweight protonup alternative           | [jule], c              |
-| [jule.nvim]    | official [jule] plugin for neovim                   | lua, vim               |
 | [anvim]        | my neovim configuration                             | lua, nix               |
 | [dotfiles]     | my nixos configuration & dotfiles                   | nix                    |
-| [website]      | source of [koi.rip][my website]           | rust, html, scss, js   |
+| [website]      | source of [koi.rip][my website]                     | rust, html, scss, js   |
 
 </div>
 </details>
 
 [ebil.club]: https://ebil.club
 [kitget]: https://codeberg.org/koibtw/kitget
-[nixdle]: https://github.com/nixdle/nixdle
-[nvrs]: https://github.com/koibtw/nvrs
 [highlightos]: https://github.com/koibtw/highlightos
 [cuteff]: https://codeberg.org/koibtw/cuteff
+[nixdle]: https://github.com/nixdle/nixdle
+[nvrs]: https://github.com/koibtw/nvrs
+[nidhogg.nvim]: https://codeberg.org/koibtw/nidhogg.nvim
+[jule.nvim]: https://github.com/julelang/jule.nvim
 [linutil]: https://github.com/christitustech/linutil
 [snapbox]: https://github.com/koibtw/snapbox
 [jpu]: https://github.com/koibtw/jpu
-[jule.nvim]: https://github.com/julelang/jule.nvim
 [anvim]: https://codeberg.org/koibtw/anvim
 [dotfiles]: https://codeberg.org/koibtw/dotfiles
 [website]: https://codeberg.org/koibtw/website
