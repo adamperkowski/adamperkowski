@@ -51,7 +51,6 @@ github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
 codeberg • <a href="https://codeberg.org/koibtw" target="_blank">@koibtw</a><br>
 matrix • <a href="https://matrix.to/#/@koi:system72.dev" target="_blank">@koi:system72.dev</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
-last.fm • <a href="https://last.fm/user/adamperkowski" target="_blank">adamperkowski</a>
 
 [website][my website]
 
