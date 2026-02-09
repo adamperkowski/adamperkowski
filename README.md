@@ -1,6 +1,6 @@
 <!--
 
-Copyright © 2025 Adam Perkowski
+Copyright © 2025 koibtw
 This file is licensed under CC BY 4.0
 See the LICENSE file for details
 
@@ -21,14 +21,13 @@ rsa_pub_key
     align="right">
 </a>
 
-<b>koi</b>
+<b>june</b>
 
 </div>
 
 <div align="center">
 
-omg hi im koi<br>
-i make some stuffs like [ebil.club], [jule], a couple of [personal projects](#projects), etc. go check out my site!!
+uhhh stuff !!
 
 <img
   width="496"
