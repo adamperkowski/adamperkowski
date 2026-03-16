@@ -52,7 +52,7 @@ codeberg • <a href="https://codeberg.org/koibtw" target="_blank">@koibtw</a><b
 github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
 
 bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
-matrix • <a href="https://matrix.to/#/@koi:system72.dev" target="_blank">@koi:system72.dev</a><br>
+matrix • <a href="https://matrix.to/#/@koi:nelliel.cv" target="_blank">@koi:nelliel.cv</a><br>
 discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
 
 [website][my website]
