@@ -4,10 +4,6 @@ Copyright © 2026 june
 This file is licensed under CC BY 4.0
 See the LICENSE file for details
 
-The license does not apply to the following files:
-ecc_pub_key
-rsa_pub_key
-
 -->
 
 <div>
@@ -61,9 +57,11 @@ discord • <a href="https://discord.com/users/1400922134355644458" target="_bla
 
 <b>
 
-[`00F6 1623 FB56 BC5B B709  4E63 4CE6 C117 2DF6 BE79`](ecc_pub_key)
+[`00F61623FB56BC5BB7094E634CE6C1172DF6BE79`][ecc]
 <br>
-[`5A53 0832 DA91 20B0 CA57  DDB6 7CBD B58E CF1D 3478`](rsa_pub_key)
+[`5A530832DA9120B0CA57DDB67CBDB58ECF1D3478`][rsa] (sign-only)
+<br>
+[`SHA256:IU0gwfP+FHk9wiMX1iGS5CUznWUsZaudVCqljHOS0QI`][ssh]
 
 </b>
 
@@ -111,6 +109,10 @@ discord • <a href="https://discord.com/users/1400922134355644458" target="_bla
 [anvim]: https://codeberg.org/koibtw/anvim
 [dotfiles]: https://git.koi.rip/koi/dotfiles
 [website]: https://git.koi.rip/koi/website
+
+[ecc]: https://koi.rip/keys/00F61623FB56BC5BB7094E634CE6C1172DF6BE79.asc
+[rsa]: https://koi.rip/keys/5A530832DA9120B0CA57DDB67CBDB58ECF1D3478.asc
+[ssh]: https://koi.rip/keys/id_ed25519.pub
 
 [jule]: https://jule.dev
 [my website]: https://koi.rip
